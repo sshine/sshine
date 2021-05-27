@@ -6,4 +6,4 @@
 - 📚 Mi parolas la lingvon internacian: Esperanto.
 - 🌱 I’m looking to collaborate on open-source Haskell projects.
 - 💬 Ask me about Haskell, functional programming, compilers, 中文, language exchanges, or whatever you like.
-- 📨 You can reach me by email, or as `sshine` on `#haskell` and `#diku` at freenode IRC.
+- 📨 You can reach me by email, or as `sshine` on `#haskell` and `#diku` at [Libera Chat](https://libera.chat/) IRC.
