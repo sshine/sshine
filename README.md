@@ -1,5 +1,7 @@
 ### 你好
 
+![image](https://stackexchange.com/users/flair/84370.png)
+
 - 🕸 https://simonshine.dk/
 - 💬 https://dev.to/sshine
 - 🌱 I’m looking to collaborate on open-source Haskell projects.
