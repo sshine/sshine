@@ -5,5 +5,4 @@
 - 🔐 https://github.com/sshine.gpg
 - 💼 https://neptune.cash
 - 丹麦人，家裡蹲，键盘侠，报复性熬夜，一个真的忍者神龟。
-
-[![StackOverflow](https://stackexchange.com/users/flair/84370.png)](https://stackexchange.com/users/84370/simon-shine)
+- [![StackOverflow](https://stackexchange.com/users/flair/84370.png)](https://stackexchange.com/users/84370/simon-shine)
