@@ -5,4 +5,3 @@
 - 🔐 https://github.com/sshine.gpg
 - 💼 https://neptune.cash
 - [![StackOverflow](https://stackexchange.com/users/flair/84370.png)](https://stackexchange.com/users/84370/simon-shine)
-- ![](https://simonshine.dk/ok.gif)
