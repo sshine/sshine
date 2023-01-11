@@ -1,6 +1,5 @@
 - 🕸 https://simonshine.dk/
 - ✉️ simon🤔simonshine.dk
 - 💬 sshine@#diku on [Libera Chat](https://libera.chat/) IRC
-- 🔐 https://github.com/sshine.gpg
 - 💼 https://neptune.cash · https://eta.solutions
 - [![StackOverflow](https://stackexchange.com/users/flair/84370.png)](https://stackexchange.com/users/84370/simon-shine)
