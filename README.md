@@ -1,5 +1,5 @@
 <div align="center">
-  ![Nerve Smart Systems](https://avatars.githubusercontent.com/u/49069041?s=200&v=4)  
+  <img src="https://avatars.githubusercontent.com/u/49069041?s=200&v=4">
 </div>
 
 - 🕸 https://simonshine.dk/
